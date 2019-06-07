@@ -1,0 +1,71 @@
+.download-rx-chart .mb-12 {margin-bottom: 1.2rem;  border: 1px solid #eee; padding: 15px; border-radius: 4px; box-shadow: 0 5px 5px 0 rgba(0,0,0,.05);}
+.download-rx-chart .MuiButton-sizeSmall-1869 {padding: 7px 15px;min-width: 64px;font-size: 1.1rem;margin: 0 0 0 15px;}
+.download-rx-chart .withRouter-Connect-FuseLayout---root-389 a:not([role=button]) {color: #303030; font-weight: 400; font-size: 15px;}
+.download-rx-chart .items-center h6 a {color: #3c4252; text-decoration: none; font-size: 15px;}
+.download-rx-chart section button {padding: 6px 12px; min-width: 64px; font-size: 1.1rem; margin: 0 0 0 10px;}
+.download-rx-chart .mb-12:hover {border: 1px solid #ffb300; box-shadow: 0 4px 4px 0 rgba(255, 179, 0,.2);}
+.office-time .flex {align-items: center; margin:5px 0;}
+
+.border, input{border: 1px solid #eee; background:#fdfdfd; padding:4px 15px; border-radius:4px;}
+.MuiInput-underline-1628:before{border:0;}
+.MuiIconButton-root-806 {padding:9px;}
+.MuiIcon-root-812 {font-size:20px;}
+
+.mar-btm{ margin-bottom: 10px;}
+.MuiIcon-root-622 {font-size: 18px;}
+.MuiIconButton-root-616 {padding:9px;}
+.login-page{ background:url(../styles/images/login-bg.png) no-repeat center 80%;}
+.CardField-number {border: 1px solid #eee;background: #fdfdfd;padding: 4px 15px;border-radius: 4px;}
+.StripeElement {display: block;margin: 10px 0 20px 0;max-width: 500px;padding: 10px 14px;box-shadow: rgba(50, 50, 93, 0.14902) 0px 1px 3px, rgba(0, 0, 0, 0.0196078) 0px 1px 0px;border-radius: 4px;background: white;}
+.StripeElement--focus {box-shadow: rgba(50, 50, 93, 0.109804) 0px 4px 6px, rgba(0, 0, 0, 0.0784314) 0px 1px 3px;-webkit-transition: all 150ms ease;transition: all 150ms ease;}
+.multi-cpt p{ padding-left:15px;}
+.record-btm-btn{ justify-content:center; margin-bottom:20px;}
+select{ min-height:38px;} 
+form label {text-transform: capitalize;}
+.icon-div{ padding-left:68px; background-size: 60px auto; background-repeat:no-repeat; background-position:0 50%;  padding-bottom:11px;}
+.icon-div-01{background-image:url(../styles/images/Snellen.png); }
+.icon-div-02{background-image:url(../styles/images/RobotArmTrans.png);}
+.icon-div-03{background-image:url(../styles/images/clock.png);}
+.icon-div-04{background-image:url(../styles/images/clipboard.png);}
+.icon-div-05{background-image:url(../styles/images/CreditCardTrans.png);}
+.error{color:red;margin-bottom: 10px;}
+.total-wrap{ font-size:30px; font-weight:300;  margin-top:10px;}
+.switch-wrap{ height:24px;}
+.glyphicon-refresh-animate {
+  -animation: spin .7s infinite linear;
+  -webkit-animation: spin2 .7s infinite linear;
+}
+
+@-webkit-keyframes spin2 {
+  from { -webkit-transform: rotate(0deg);}
+  to { -webkit-transform: rotate(360deg);}
+}
+
+@keyframes spin {
+  from { transform: scale(1) rotate(0deg);}
+  to { transform: scale(1) rotate(360deg);}
+}
+@media(max-width:767px){
+    .p-24 {padding:1.4rem;}
+    table th, table td{padding:5px !important;}
+    .store-icon-div{ margin-left:15px;}
+    .new-btn-div{ margin-right:15px;}
+    .office-officetime-wrap{ flex-wrap:wrap;}
+    .office-officetime-wrap .mr-16{ margin:0 0 20px; width:100%;}
+    .wrap-state-zip{ flex-wrap:wrap;}
+    .wrap-state-zip .mr-6, .wrap-state-zip .ml-6,
+    .wrap-state-zip .mx-3 { width:100%;margin:3px 0; }
+    .office-time-wrap{ overflow:auto;}
+    .office-time-wrap form{ min-width:600px;}
+    .CardField-number { width:100%;}
+}
+
+
+  @media(max-width:767px){
+    .steper-wrap{ flex-wrap:wrap;}
+    .steper-wrap .steper-wrap-inr{ width:50%; padding:0 8px !important; margin:5px 0;}
+    .steper-wrap{ padding:15px;}
+    .full-width-mobile-view{ width:100%; margin-right:0;}
+    .card-dtl{ padding:0 15px;}
+    .border, input {padding: 4px 5px;  }
+  }
